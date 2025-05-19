@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/25E2_4-TP2.props" />
+</Project>

@@ -1,0 +1,30 @@
+@page
+@model _25E2_4_TP2.Pages.CityManager.CreateCity
+
+@{
+    ViewData["Title"] = "Create City";
+}
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<!DOCTYPE html>
+
+<h2>@ViewData["Title"]</h2>
+<div class="container mt-5">
+    <form method="post" class="mt-4">
+        <div class="form-group">
+            <label asp-for="Input.CityName" class="control-label">City Name</label>
+            <input asp-for="Input.CityName" class="form-control" type="text"/>
+            <span asp-validation-for="Input.CityName" class="text-danger"></span>
+        </div>
+        <div class="form-group mt-4">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+    <div class="container mt-5">    
+        <h4>@Model.Input.CityName</h4>
+    </div>
+</div>
