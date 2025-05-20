@@ -13,7 +13,7 @@ public class CreateCountry : PageModel
     [BindProperty] 
     public List<InputModel> ListaInputs { get; set; } = new();
 
-    public class InputModel //Faz a validação dos dados
+    public class InputModel 
     {
         [Required(ErrorMessage = "Nome necessário")]
         public string CountryName { set; get; }
@@ -24,19 +24,40 @@ public class CreateCountry : PageModel
 
     public void OnPost()
     {
-        
+        for (int i = 0; i < ListaInputs.Count; i++)
+        {
+            if (!string.IsNullOrEmpty(ListaInputs[i].CountryName) && 
+                !string.IsNullOrEmpty(ListaInputs[i].CountryCode))
+            {
+                var firstLetterName = ListaInputs[i].CountryName.Substring(0, 1).ToUpper();
+                var firstLetterCode = ListaInputs[i].CountryCode.Substring(0, 1).ToUpper();
+                
+                if (firstLetterName != firstLetterCode)
+                {
+                    ModelState.AddModelError($"ListaInputs[{i}].CountryCode", 
+                        $"A primeira letra do código deve ser igual à primeira letra do nome do país.");
+                }
+            }
+        }
+
         if (ModelState.IsValid)
         {
-            var country = Country.FromInputModel(Input);
-            Console.WriteLine($"Nome país: {country.CountryName}\nCódigo país: {country.CountryCode}");
+            foreach (var input in ListaInputs)
+            {
+                if (!string.IsNullOrEmpty(input.CountryName) && !string.IsNullOrEmpty(input.CountryCode))
+                {
+                    var country = Country.FromInputModel(input);
+                    Console.WriteLine($"Nome país: {country.CountryName}\nCódigo país: {country.CountryCode}");
+                }
+            }
         }
     }
     
-    public void OnGet()
+public void OnGet()
+{
+    for (int i = 0; i < 5; i++)
     {
-        for (int i = 0; i < 5; i++)
-        {
-            ListaInputs.Add(new InputModel());
-        }
+        ListaInputs.Add(new InputModel());
     }
+}
 }

@@ -96,3 +96,4 @@
 /home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/obj/Debug/net9.0/25E2_4-TP2.pdb
 /home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/obj/Debug/net9.0/25E2_4-TP2.genruntimeconfig.cache
 /home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/obj/Debug/net9.0/ref/25E2_4-TP2.dll
+/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/obj/Debug/net9.0/compressed/bvnxk4pdtv-mcwe465zyr.gz

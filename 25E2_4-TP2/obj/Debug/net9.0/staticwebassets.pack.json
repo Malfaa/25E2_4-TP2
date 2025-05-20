@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/wwwroot/files/note-20250519213309.txt",
+      "PackagePath": "staticwebassets/files/note-20250519213309.txt"
+    },
+    {
       "Id": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

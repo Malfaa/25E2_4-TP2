@@ -2,16 +2,27 @@
 @model _25E2_4_TP2.Pages.CityManager.SaveNote
 
 @{
-    Layout = null;
+    ViewData["Title"] = "Salvar Nota";
 }
 
 <!DOCTYPE html>
 
-<div class="container mt-5">
-    <form method="post" class="mt-4">
-        <div class="form-group">
-            <label></label>
-            <input/>
-        </div>
-    </form>
-</div>
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Input.Content" class="mt-4"></label>
+        <input asp-for="Input.Content" class="form-control"></input>
+        <span asp-validation-for="Input.Content" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Salvar Nota</button>
+</form>
+
+@if (Model.Download != null)
+{
+    <div class="mt-3 alert alert-success">
+        <a href="@Model.Download" class="btn btn-success" download>
+            Baixar Arquivo
+        </a>
+    </div>
+}

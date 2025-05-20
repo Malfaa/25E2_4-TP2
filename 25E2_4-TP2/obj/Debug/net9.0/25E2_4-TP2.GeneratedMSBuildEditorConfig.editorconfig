@@ -32,6 +32,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eU1hbmFnZXIvQ3JlYXRlQ291bnRyeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/Pages/CityManager/LoadNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eU1hbmFnZXIvTG9hZE5vdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/Pages/CityManager/SaveNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eU1hbmFnZXIvU2F2ZU5vdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

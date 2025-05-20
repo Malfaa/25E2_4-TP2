@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yGuBnYCTTGFkqVW06GxhLg9DKiFMCmoe3W/9PB1rJz4=",
+  "Hash": "eRwqXonWJH3LYZ2oN0kypjZBjCedCiKobxTMfiOdvlQ=",
   "Source": "25E2_4-TP2",
   "BasePath": "_content/25E2_4-TP2",
   "Mode": "Default",
@@ -435,6 +435,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/obj/Debug/net9.0/compressed/bvnxk4pdtv-mcwe465zyr.gz",
+      "SourceId": "25E2_4-TP2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/25E2_4-TP2",
+      "RelativePath": "files/note-20250519213309#[.{fingerprint=mcwe465zyr}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/wwwroot/files/note-20250519213309.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0x4bo9e7q5",
+      "Integrity": "pGnjQOFlQA8WhXM5T1CpCZmctll67FIvjdlizFNiTtM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/wwwroot/files/note-20250519213309.txt"
     },
     {
       "Identity": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/obj/Debug/net9.0/compressed/ckji2ku80d-l3n5xuwxn8.gz",
@@ -1443,6 +1464,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/wwwroot/files/note-20250519213309.txt",
+      "SourceId": "25E2_4-TP2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/wwwroot/",
+      "BasePath": "_content/25E2_4-TP2",
+      "RelativePath": "files/note-20250519213309#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mcwe465zyr",
+      "Integrity": "RgcNS/k0+w1LBtnixG40aUTjIkRJAKQ119mpXm10NfU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/files/note-20250519213309.txt"
     },
     {
       "Identity": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/wwwroot/js/site.js",
@@ -3916,6 +3958,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-tOy5kS1PTkjkEg7bjV8bJa0VpoEZJUHnbqYmm1YyhMg="
+        }
+      ]
+    },
+    {
+      "Route": "files/note-20250519213309.mcwe465zyr.txt",
+      "AssetFile": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/obj/Debug/net9.0/compressed/bvnxk4pdtv-mcwe465zyr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.038461538462"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pGnjQOFlQA8WhXM5T1CpCZmctll67FIvjdlizFNiTtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 00:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RgcNS/k0+w1LBtnixG40aUTjIkRJAKQ119mpXm10NfU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mcwe465zyr"
+        },
+        {
+          "Name": "label",
+          "Value": "files/note-20250519213309.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgcNS/k0+w1LBtnixG40aUTjIkRJAKQ119mpXm10NfU="
+        }
+      ]
+    },
+    {
+      "Route": "files/note-20250519213309.mcwe465zyr.txt",
+      "AssetFile": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/wwwroot/files/note-20250519213309.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RgcNS/k0+w1LBtnixG40aUTjIkRJAKQ119mpXm10NfU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 00:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mcwe465zyr"
+        },
+        {
+          "Name": "label",
+          "Value": "files/note-20250519213309.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgcNS/k0+w1LBtnixG40aUTjIkRJAKQ119mpXm10NfU="
+        }
+      ]
+    },
+    {
+      "Route": "files/note-20250519213309.mcwe465zyr.txt.gz",
+      "AssetFile": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/obj/Debug/net9.0/compressed/bvnxk4pdtv-mcwe465zyr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pGnjQOFlQA8WhXM5T1CpCZmctll67FIvjdlizFNiTtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 00:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mcwe465zyr"
+        },
+        {
+          "Name": "label",
+          "Value": "files/note-20250519213309.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pGnjQOFlQA8WhXM5T1CpCZmctll67FIvjdlizFNiTtM="
+        }
+      ]
+    },
+    {
+      "Route": "files/note-20250519213309.txt",
+      "AssetFile": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/obj/Debug/net9.0/compressed/bvnxk4pdtv-mcwe465zyr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.038461538462"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pGnjQOFlQA8WhXM5T1CpCZmctll67FIvjdlizFNiTtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 00:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RgcNS/k0+w1LBtnixG40aUTjIkRJAKQ119mpXm10NfU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgcNS/k0+w1LBtnixG40aUTjIkRJAKQ119mpXm10NfU="
+        }
+      ]
+    },
+    {
+      "Route": "files/note-20250519213309.txt",
+      "AssetFile": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/wwwroot/files/note-20250519213309.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RgcNS/k0+w1LBtnixG40aUTjIkRJAKQ119mpXm10NfU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 00:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgcNS/k0+w1LBtnixG40aUTjIkRJAKQ119mpXm10NfU="
+        }
+      ]
+    },
+    {
+      "Route": "files/note-20250519213309.txt.gz",
+      "AssetFile": "/home/marufa/Developer/Engenharia_de_software/Desenvolvimento_Web_com_NET_e_Bases_de_Dados/25E2_4-TP2/25E2_4-TP2/obj/Debug/net9.0/compressed/bvnxk4pdtv-mcwe465zyr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pGnjQOFlQA8WhXM5T1CpCZmctll67FIvjdlizFNiTtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 00:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pGnjQOFlQA8WhXM5T1CpCZmctll67FIvjdlizFNiTtM="
         }
       ]
     },
